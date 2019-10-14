@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestBuyCrud", "BestBuyCrud\BestBuyCrud.csproj", "{726577DE-1CA0-462B-8F23-1DA979BE8816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestBuyCrudTests", "BestBuyCrudTests\BestBuyCrudTests.csproj", "{E956B727-1988-4244-B530-5EE92CB2EDAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{726577DE-1CA0-462B-8F23-1DA979BE8816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726577DE-1CA0-462B-8F23-1DA979BE8816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726577DE-1CA0-462B-8F23-1DA979BE8816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726577DE-1CA0-462B-8F23-1DA979BE8816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E956B727-1988-4244-B530-5EE92CB2EDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E956B727-1988-4244-B530-5EE92CB2EDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E956B727-1988-4244-B530-5EE92CB2EDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E956B727-1988-4244-B530-5EE92CB2EDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
